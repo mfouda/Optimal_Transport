@@ -8,3 +8,5 @@ I am very honored to have Prof. [Chao Chen](https://boole.cs.qc.cuny.edu/cchen/)
 
 ### References
 - [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
+- [Optimal Transport and Information Geometry](https://arxiv.org/pdf/1906.00030.pdf)
+- [Optimal Transport & Information Geometry Reading Course Spring 2019](https://dsweber2.github.io/Optimal-Transport-Information-Geometry/)
