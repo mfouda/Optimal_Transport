@@ -1,4 +1,5 @@
-> Hi, this repository is aimed to record my personal progresses and plan on the research of O.T.
+> Hi, this repository is aimed to record my personal progresses and plan on the research of O.T.\
+> I think the most helpful part for you may be the references.
 
 # Research Schedule
 #### 02/17 - 02/23 | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
