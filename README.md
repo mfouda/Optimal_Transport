@@ -1,14 +1,14 @@
 > I am very honored to have Prof. [Chao Chen](https://boole.cs.qc.cuny.edu/cchen/) to supervise me on the research of optimal transport. This repository is aimed to record my progresses and schedule my plan on the research.
 
 # Research Schedule
-#### 02/17 - 02/23:
+#### 02/17 - 02/23 | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
 - [ ] Review the whole introduction
 
-#### 02/10 - 02/16:
+#### 02/10 - 02/16 | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
 - [ ] 02/16 Finish the 5th chapter
 - [ ] 02/14 Finish the 4th chapter
 - [x] 02/13 Finish the 3rd chapter
-- [X] 02/11 Finish first two chapters of [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
+- [X] 02/11 Finish first two chapters
 
 # References
 - [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
