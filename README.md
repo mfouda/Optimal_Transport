@@ -1,4 +1,4 @@
-> I am very honored to have Prof. [Chao Chen](https://boole.cs.qc.cuny.edu/cchen/) to supervise me on the research of optimal transport. This repository is aimed to record my progresses and schedule my plan on the research.
+> Hi, this repository is aimed to record my personal progresses and plan on the research of O.T.
 
 # Research Schedule
 #### 02/17 - 02/23 | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
