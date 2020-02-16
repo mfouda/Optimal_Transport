@@ -1,5 +1,5 @@
 > Hi, this repository is aimed to record my personal progresses and plan on the research of O.T.\
-> I think the most helpful part for you may be the references.
+> I think the most helpful part for you may be the references, where I have maken some comments to help you choose the most suitable material.
 
 # Research Schedule
 #### 02/17 - 02/23
@@ -13,7 +13,7 @@
 - [X] 02/11 Finish first two chapters
 
 # References
-- [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
+- [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes) | This introduction is full of theorems and proofs, which are based on some definitions and theorems from rigorous probability, functional analysis and convex analysis.
 - [Computational Optimal Transport](https://optimaltransport.github.io/)
 - [Optimal Transport and Information Geometry](https://arxiv.org/pdf/1906.00030.pdf)
 - [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
