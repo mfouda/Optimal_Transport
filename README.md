@@ -14,7 +14,7 @@
 
 # References
 - [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes) | This introduction is full of theorems and proofs, which are based on some definitions and theorems from rigorous probability, functional analysis and convex analysis.
-- [Computational Optimal Transport](https://optimaltransport.github.io/)
+- [Computational Optimal Transport](https://optimaltransport.github.io/) | This may be the best introductory material to O.T. [Update after reading]
 - [Optimal Transport and Information Geometry](https://arxiv.org/pdf/1906.00030.pdf)
 - [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
 - [Optimal Transport & Information Geometry Reading Course Spring 2019](https://dsweber2.github.io/Optimal-Transport-Information-Geometry/)
