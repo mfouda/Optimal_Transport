@@ -6,7 +6,8 @@
 - [ ] Review the whole introduction
 
 #### 02/10 - 02/16 | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
-- [ ] 02/16 Finish the 5th chapter
+- [x] 02/15 Finish the NIPS2017 Tutorial [**A Primer on O.T.**](https://www.bilibili.com/video/av18504839/)
+- [x] 02/15 Finish the 5th chapter
 - [x] 02/14 Finish the 4th chapter
 - [x] 02/13 Finish the 3rd chapter
 - [X] 02/11 Finish first two chapters
