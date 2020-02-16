@@ -14,6 +14,7 @@
 
 # References
 - [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
+- [Computational Optimal Transport](https://optimaltransport.github.io/)
 - [Optimal Transport and Information Geometry](https://arxiv.org/pdf/1906.00030.pdf)
 - [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
 - [Optimal Transport & Information Geometry Reading Course Spring 2019](https://dsweber2.github.io/Optimal-Transport-Information-Geometry/)
