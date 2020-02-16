@@ -1,5 +1,5 @@
 > Hi, this repository is aimed to record my personal progresses and plan on the research of O.T.\
-> I think the most helpful part for you may be the references, where I have maken some comments to help you choose the most suitable material.
+> I think the most helpful part for you may be the **Awesome Materials on Optimal Transport**, where I have maken some comments to help you choose the most suitable material.
 
 # Research Schedule
 #### 02/17 - 02/23
