@@ -4,6 +4,7 @@
 # Research Schedule
 #### 02/17 - 02/23
 - [ ] Review the whole introduction | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
+- [x] 02/17 Review the 2nd chapter
 - [x] 02/17 Review the 1st chapter
 
 #### 02/10 - 02/16
