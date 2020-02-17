@@ -4,6 +4,7 @@
 # Research Schedule
 #### 02/17 - 02/23
 - [ ] Review the whole introduction | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
+- [x] 02/17 Review the 1st chapter
 
 #### 02/10 - 02/16
 - [x] 02/15 Finish the NIPS2017 Tutorial | [A Primer on O.T.](https://nips.cc/Conferences/2017/ScheduleMultitrack?event=8736)
