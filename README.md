@@ -22,7 +22,7 @@
 | Materials  | Comments (Possibly Helpful) |
 |---|---|
 | [Introduction to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes) | This introduction is full of theorems and proofs, which are based on some definitions and theorems from rigorous probability theory, functional analysis and convex analysis. In addition, it doesn't mention Sinkhorn's Algorithm, Barycenters, and some other latest topics. |
-| [Computational Optimal Transport](https://optimaltransport.github.io/)  | This may be the best introductory material to O.T. [Update after reading]  |
+| [Computational Optimal Transport](https://optimaltransport.github.io/)  | The material is not complete in some sections, so it is better to read the corresponding book. |
 | [A Primer on Optimal Transport](https://nips.cc/Conferences/2017/ScheduleMultitrack?event=8736) | This is a tutorial of O.T. in NIPS2017 which can give an overall outline about the research of O.T. up to 2017. |
 | [Optimal transport: Old and New](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf) | Textbook, Published in 2008 |
 | [Optimal Transport for Applied Mathematicians](http://www.math.toronto.edu/~mccann/assignments/477/Santambrogio15.pdf)| Textbook, Published in 2015 |
