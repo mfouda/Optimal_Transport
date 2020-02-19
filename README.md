@@ -3,7 +3,7 @@
 
 # Research Schedule
 #### 02/24 - 03/01
-- [ ] Read some Papers
+- [ ] Read some papers
 
 #### 02/17 - 02/23
 - [x] 02/18 Finish a mindmap of Intro. to O.T. [[Mindmap]](./images/Mindmap_Intro_OT.png)
