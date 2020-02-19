@@ -33,6 +33,9 @@
 | [Optimal mass transport: Signal processing and machine-learning applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974883) | A short review of applications in O.T. |
 | [A Geometric Understanding of Deep Learning](https://www.sciencedirect.com/science/article/pii/S2095809919302279) | Update |
 
-### Courses / Seminars
+### Courses / Seminars / Workshop
+- [OTML2014](http://www.iip.ist.i.kyoto-u.ac.jp/OTML2014/doku.php)
+- [OTML2017](http://otml17.marcocuturi.net/)
+- [OTML2019](https://sites.google.com/view/otml2019/home?authuser=0)
 - [Optimal Transport & Information Geometry Reading Course Spring 2019](https://dsweber2.github.io/Optimal-Transport-Information-Geometry/)
 
