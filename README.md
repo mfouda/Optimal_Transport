@@ -6,7 +6,7 @@
 - [ ] Read some papers
 
 #### 02/17 - 02/23
-- [x] 02/18 Finish a mindmap of Intro. to O.T. [[Mindmap]](./images/Mindmap_Intro_ot.png)
+- [x] 02/18 Finish a mindmap of Intro. to O.T. | [Mindmap](./images/Mindmap_Intro_ot.png)
 - [x] 02/18 Review the whole introduction | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
 
 #### 02/10 - 02/16
