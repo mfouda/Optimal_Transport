@@ -31,8 +31,8 @@
 | [On minimum Kantorovich distance estimators (2006)](https://www.sciencedirect.com/science/article/pii/S0167715206000381) | Use Wasserstein distances to define a loss between data and model. |
 | [Sinkhorn Distances: Lightspeed Computation of Optimal Transport (2013)](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf) | Update |
 | [Optimal mass transport: Signal processing and machine-learning applications (2017)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974883) | A short review of applications in O.T. |
+| [A Geometric View of Optimal Transportation and Generative Model (2018)](https://www.sciencedirect.com/science/article/pii/S0167839618301249) | Update |
 | [Optimal Transport and Information Geometry (2019)](https://arxiv.org/pdf/1906.00030.pdf) | Update |
-| [A Geometric View of Optimal Transportation and Generative Model (2019)](https://www.sciencedirect.com/science/article/pii/S0167839618301249) | Update |
 | [Dynamic Graph CNN for Learning on Point Clouds (2019)](https://dl.acm.org/doi/pdf/10.1145/3326362)| Update |
 | [A Geometric Understanding of Deep Learning (2020)](https://www.sciencedirect.com/science/article/pii/S2095809919302279) | Update |
 
