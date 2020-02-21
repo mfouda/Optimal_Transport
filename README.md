@@ -2,10 +2,10 @@
 > I think the most helpful part for you may be the **Awesome Materials on Optimal Transport**, where I have maken some comments to help you choose the most suitable material.
 
 # Research Schedule
-#### 02/24 - 03/01
-- [ ] Read some papers
+#### 02/21 - 03/01
+- [ ] Read thesis [Optimal Transport in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 
-#### 02/17 - 02/23
+#### 02/17 - 02/18
 - [x] 02/18 Finish a mindmap of Intro. to O.T. | [Mindmap](./images/Mindmap_Intro_ot.png)
 - [x] 02/18 Review the whole introduction | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
 
