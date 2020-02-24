@@ -4,6 +4,8 @@
 # Research Schedule
 #### 02/21 - 03/01
 - [ ] Read thesis [Optimal Transport in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
+- [ ] Finish [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
+- [ ] Finish [Structured Optimal Transport](http://people.csail.mit.edu/davidam/assets/publications/2018_structured_ot/AISTATS2018_Structured.pdf)
 - [x] 02/24 Finish read the first three chapters
 
 #### 02/17 - 02/18
@@ -32,6 +34,7 @@
 | [On minimum Kantorovich distance estimators (2006)](https://www.sciencedirect.com/science/article/pii/S0167715206000381) | Use Wasserstein distances to define a loss between data and model. |
 | [Sinkhorn Distances: Lightspeed Computation of Optimal Transport (2013)](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf) | Update |
 | [Optimal mass transport: Signal processing and machine-learning applications (2017)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974883) | A short review of applications in O.T. |
+| [Structured Optimal Transport (2018)](http://people.csail.mit.edu/davidam/assets/publications/2018_structured_ot/AISTATS2018_Structured.pdf) | Update |
 | [A Geometric View of Optimal Transportation and Generative Model (2018)](https://www.sciencedirect.com/science/article/pii/S0167839618301249) | Update |
 | [Optimal Transport and Information Geometry (2019)](https://arxiv.org/pdf/1906.00030.pdf) | Update |
 | [Dynamic Graph CNN for Learning on Point Clouds (2019)](https://dl.acm.org/doi/pdf/10.1145/3326362)| Update |
