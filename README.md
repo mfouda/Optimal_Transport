@@ -4,6 +4,7 @@
 # Research Schedule
 #### 02/21 - 03/01
 - [ ] Read thesis [Optimal Transport in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
+- [x] 02/24 Finish read the first three chapters
 
 #### 02/17 - 02/18
 - [x] 02/18 Finish a mindmap of Intro. to O.T. | [Mindmap](./images/Mindmap_Intro_ot.png)
