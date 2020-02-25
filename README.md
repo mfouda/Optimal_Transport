@@ -4,7 +4,6 @@
 # Research Schedule
 #### 02/21 - 03/01
 - [ ] Finish [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
-- [ ] Finish [Intro. to O.T. (Santambrogio)](https://arxiv.org/pdf/1009.3856.pdf)
 - [x] 02/24 Finish read the first three chapters | [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 
 #### 02/17 - 02/18
