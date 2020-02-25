@@ -4,7 +4,7 @@
 # Research Schedule
 #### 02/21 - 03/01
 - [ ] Finish [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
-- [ ] Finish learning code [POT](https://github.com/pkomiske/POT)
+- [ ] Finish learning the code [POT](https://github.com/pkomiske/POT)
 - [x] 02/24 Finish the first three chapters | [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 
 #### 02/17 - 02/18
