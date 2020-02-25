@@ -48,3 +48,5 @@
 - [OTML2019](https://sites.google.com/view/otml2019/home?authuser=0)
 - [Optimal Transport & Information Geometry Reading Course Spring 2019](https://dsweber2.github.io/Optimal-Transport-Information-Geometry/)
 
+### Programming Library
+- [Python Optimal Transport Library](https://buildmedia.readthedocs.org/media/pdf/pot/latest/pot.pdf)
