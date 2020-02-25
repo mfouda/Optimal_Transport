@@ -4,7 +4,7 @@
 # Research Schedule
 #### 02/21 - 03/01
 - [ ] Finish [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
-- [ ] Finish [Intro. to O.T., Santambrogio](https://arxiv.org/pdf/1009.3856.pdf)
+- [ ] Finish [Intro. to O.T. (Santambrogio)](https://arxiv.org/pdf/1009.3856.pdf)
 - [x] 02/24 Finish read the first three chapters | [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 
 #### 02/17 - 02/18
@@ -21,7 +21,7 @@
 | Materials  | Comments (Possibly Helpful) |
 |---|---|
 | [Introduction to Optimal Transport (Thorpe)](http://www.math.cmu.edu/~mthorpe/OTNotes) | This introduction is full of theorems and proofs, which are based on some definitions and theorems from rigorous probability theory, functional analysis and convex analysis. In addition, it doesn't mention Sinkhorn's Algorithm, Barycenters, and some other latest topics. [[Mindmap]](./images/Mindmap_Intro_ot.png) |
-| [Intro. to O.T., Santambrogio](https://arxiv.org/pdf/1009.3856.pdf) | Update |
+| [Intro. to O.T. (Santambrogio)](https://arxiv.org/pdf/1009.3856.pdf) | Update |
 | [Computational Optimal Transport](https://optimaltransport.github.io/)  | The slide is not complete in some sections, so it is better to read the corresponding book. [[Book]](https://arxiv.org/pdf/1803.00567.pdf)  [[Codes]](https://github.com/optimaltransport/optimaltransport.github.io/tree/master/code)  [[Slides]](https://optimaltransport.github.io/slides-peyre/CourseOT.pdf) |
 | [A Primer on Optimal Transport](https://nips.cc/Conferences/2017/ScheduleMultitrack?event=8736) | This is a tutorial of O.T. in NIPS2017 which can give an overall outline about the research of O.T. up to 2017. |
 | [Optimal transport: Old and New](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf) | Textbook, Published in 2008 |
