@@ -40,6 +40,7 @@
 | [Optimal Transport and Information Geometry (2019)](https://arxiv.org/pdf/1906.00030.pdf) | Update |
 | [Dynamic Graph CNN for Learning on Point Clouds (2019)](https://dl.acm.org/doi/pdf/10.1145/3326362)| Update |
 | [A Geometric Understanding of Deep Learning (2020)](https://www.sciencedirect.com/science/article/pii/S2095809919302279) | Update |
+| [GOT: An Optimal Transport framework for Graph comparison](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf) | Update |
 
 
 ### Courses / Seminars / Workshop
