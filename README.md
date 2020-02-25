@@ -4,7 +4,8 @@
 # Research Schedule
 #### 02/21 - 03/01
 - [ ] Finish [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html)
-- [x] 02/24 Finish read the first three chapters | [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
+- [ ] Finish learning code [POT](https://github.com/pkomiske/POT)
+- [x] 02/24 Finish the first three chapters | [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 
 #### 02/17 - 02/18
 - [x] 02/18 Finish a mindmap of Intro. to O.T. | [Mindmap](./images/Mindmap_Intro_ot.png)
@@ -12,7 +13,7 @@
 
 #### 02/10 - 02/16
 - [x] 02/15 Finish the NIPS2017 Tutorial | [A Primer on O.T.](https://nips.cc/Conferences/2017/ScheduleMultitrack?event=8736)
-- [x] 02/15 Finish reading the tutorial | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
+- [x] 02/15 Finish the tutorial | [Intro. to Optimal Transport](http://www.math.cmu.edu/~mthorpe/OTNotes)
 
 # Awesome Materials on Optimal Transport
 
