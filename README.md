@@ -27,6 +27,7 @@
 | [Optimal transport: Old and New](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf) | Textbook, Published in 2008 |
 | [Optimal Transport for Applied Mathematicians](http://www.math.toronto.edu/~mccann/assignments/477/Santambrogio15.pdf)| Textbook, Published in 2015 |
 | [Optimal Transport in Biomedical Imaging](http://imagedatascience.com/transport/tutorials_miccai18.html) | Update |
+| [A User’s Guide to Optimal Transport](https://webusers.imj-prg.fr/~nicola.gigli/Site/Publications_files/users_guide%20-%20final.pdf) | Mainly on the Riemannian geometry |
 
 ### Papers
 | Papers  | Comments  |
