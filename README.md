@@ -7,10 +7,10 @@
 - [ ] Review and Read [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 
 #### 02/21 - 03/01
+- [x] Finish learning the code | [POT](https://github.com/rflamary/POT)
 - [x] 02/28 Read [Paper 2](https://papers.nips.cc/paper/6792-near-linear-time-approximation-algorithms-for-optimal-transport-via-sinkhorn-iteration.pdf) and play with corresponding code
 - [x] 02/26 Read [Paper 1](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf) and play with corresponding code
 - [x] 02/24 Finish the first three chapters | [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
-- ~~-[ ] Finish learning the code | [POT](https://github.com/rflamary/POT)~~
 - ~~-[ ] Read [Paper 3](https://arxiv.org/pdf/1607.05816.pdf%3E%60__), [Paper 4](https://arxiv.org/pdf/1610.06519.pdf%3E%60__)~~
 
 #### 02/17 - 02/18
