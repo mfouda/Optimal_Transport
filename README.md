@@ -3,7 +3,7 @@
 
 # Research Schedule
 #### 03/02 - 03/08
-- [ ] Read [Paper 3](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf)
+- [x] Read [Paper 3](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf)
 - [ ] Review and Read [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 
 #### 02/21 - 03/01
