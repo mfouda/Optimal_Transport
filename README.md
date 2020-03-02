@@ -3,8 +3,9 @@
 
 # Research Schedule
 #### 03/02 - 03/08
-- [x] Read [Paper 3](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf)
 - [ ] Review and Read [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
+- [ ] Read [Paper 4](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552590), [Paper 5](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700665), [Paper 6](http://shichuan.org/hin/topic/Embedding/2017.%20AAAI%20Matching%20Node%20Embeddings%20for%20Graph%20Similarity.pdf), [Paper 7](https://arxiv.org/pdf/1805.09114.pdf)
+- [x] Read [Paper 3](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf)
 
 #### 02/21 - 03/01
 - [x] Finish learning the code | [POT](https://github.com/rflamary/POT)
