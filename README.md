@@ -40,14 +40,23 @@
 | Papers  | Comments  |
 |---|---|
 | [On minimum Kantorovich distance estimators (2006)](https://www.sciencedirect.com/science/article/pii/S0167715206000381) | Use Wasserstein distances to define a loss between data and model. |
-| [Sinkhorn Distances: Lightspeed Computation of Optimal Transport (2013)](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf) | Update |
+| [Sinkhorn Distances: Lightspeed Computation of Optimal Transport (2013)](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf) | Proposed a widely used algorithm for solving optimal transport problems. |
 | [Optimal mass transport: Signal processing and machine-learning applications (2017)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974883) | A short review of applications in O.T. |
+| [Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration](https://papers.nips.cc/paper/6792-near-linear-time-approximation-algorithms-for-optimal-transport-via-sinkhorn-iteration.pdf) | Proposed a coordinated descent version of Sinkhorn algorithm which is of linear time. |
 | [Structured Optimal Transport (2018)](http://people.csail.mit.edu/davidam/assets/publications/2018_structured_ot/AISTATS2018_Structured.pdf) | Use cost function to encode the structure information |
 | [A Geometric View of Optimal Transportation and Generative Model (2018)](https://www.sciencedirect.com/science/article/pii/S0167839618301249) | Update |
 | [Optimal Transport and Information Geometry (2019)](https://arxiv.org/pdf/1906.00030.pdf) | Update |
 | [Dynamic Graph CNN for Learning on Point Clouds (2019)](https://dl.acm.org/doi/pdf/10.1145/3326362)| Update |
-| [GOT: An Optimal Transport framework for Graph comparison (2019)](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf) | Update |
 | [A Geometric Understanding of Deep Learning (2020)](https://www.sciencedirect.com/science/article/pii/S2095809919302279) | Update |
+
+#### Graph Comparison with Optimal Transport
+| Papers  | Comments  |
+|---|---|
+| [Learning Laplacian Matrix in Smooth Graph Signal Representations (2016)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552590) | Update |
+| [Matching Node Embeddings for Graph Similarity (2017)](http://shichuan.org/hin/topic/Embedding/2017.%20AAAI%20Matching%20Node%20Embeddings%20for%20Graph%20Similarity.pdf) | Update |
+| [Learning Data from Graphs (2019) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700665) | Update |
+| [Optimal Transport for structured data with application on graphs (2019)](https://arxiv.org/pdf/1805.09114.pdf) | Update |
+| [GOT: An Optimal Transport framework for Graph comparison (2019)](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf) | Update |
 
 ### Courses / Seminars / Workshop
 - [OTML2014](http://www.iip.ist.i.kyoto-u.ac.jp/OTML2014/doku.php)
