@@ -3,11 +3,11 @@
 
 # Research Schedule
 #### 03/02 - 03/08
-- [ ] Read [Paper 4](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552590), [Paper 5](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700665), [Paper 6](http://shichuan.org/hin/topic/Embedding/2017.%20AAAI%20Matching%20Node%20Embeddings%20for%20Graph%20Similarity.pdf), [Paper 7](https://arxiv.org/pdf/1805.09114.pdf)
+- [ ] Read [Paper 6](http://shichuan.org/hin/topic/Embedding/2017.%20AAAI%20Matching%20Node%20Embeddings%20for%20Graph%20Similarity.pdf), [Paper 7](https://arxiv.org/pdf/1805.09114.pdf)
 - [x] Review and Read [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 - [x] Read [A Brief Lecture on Submodular Functions](https://www2.isye.gatech.edu/~atoriello3/submod.pdf)
 - [x] Read [Factor Analysis](https://www.stat.cmu.edu/~cshalizi/350/lectures/12/lecture-12.pdf)
-- [x] Read [Paper 3](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf)
+- [x] Read [Paper 3](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf), [Paper 4](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552590), [Paper 5](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700665)
 
 #### 02/21 - 03/01
 - [x] Finish learning the code | [POT](https://github.com/rflamary/POT)
