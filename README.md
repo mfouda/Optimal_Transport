@@ -53,11 +53,11 @@
 #### Graph Comparison with Optimal Transport
 | Papers  | Comments  |
 |---|---|
-| [Learning Laplacian Matrix in Smooth Graph Signal Representations (2016)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552590) | Update |
+| [Learning Laplacian Matrix in Smooth Graph Signal Representations (2016)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552590) | Learning graph laplacian matrix using smooth graph signal, where graph laplacian matrices uniquely charaterizes graphs |
 | [Matching Node Embeddings for Graph Similarity (2017)](http://shichuan.org/hin/topic/Embedding/2017.%20AAAI%20Matching%20Node%20Embeddings%20for%20Graph%20Similarity.pdf) | Update |
-| [Learning Data from Graphs (2019) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700665) | Update |
+| [Learning Graphs from Data (2019) ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700665) | An overview of graph learning methods. It mentions three methods: statistical method, physical method, and graph signal processing method |
 | [Optimal Transport for structured data with application on graphs (2019)](https://arxiv.org/pdf/1805.09114.pdf) | Update |
-| [GOT: An Optimal Transport framework for Graph comparison (2019)](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf) | Update |
+| [GOT: An Optimal Transport framework for Graph comparison (2019)](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf) | Compare graph using their smooth graph signals |
 
 ### Courses / Seminars / Workshop
 - [OTML2014](http://www.iip.ist.i.kyoto-u.ac.jp/OTML2014/doku.php)
