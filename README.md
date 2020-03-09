@@ -2,8 +2,11 @@
 > I think the most helpful part for you may be the **Awesome Materials on Optimal Transport**, where I have maken some comments to help you choose the most suitable material.
 
 # Research Schedule
+#### 03/09 - 03/15
+- [ ] Read [Paper 6](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8347162), [Paper 7](https://arxiv.org/pdf/1805.09114.pdf), [Paper 8](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6409473), [Paper 9](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6494675)
+- [ ] Read [Lectures on Spectral Graph Theory](https://eclass.uoa.gr/modules/document/file.php/MATH506/03.%20%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CF%8E%CE%BD/cbms.pdf)
+
 #### 03/02 - 03/08
-- [ ] Read [Paper 6](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8347162), [Paper 7](https://arxiv.org/pdf/1805.09114.pdf)
 - [x] Review and Read [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
 - [x] Read [A Brief Lecture on Submodular Functions](https://www2.isye.gatech.edu/~atoriello3/submod.pdf), [Factor Analysis](https://www.stat.cmu.edu/~cshalizi/350/lectures/12/lecture-12.pdf)
 - [x] Read [Paper 3](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison.pdf), [Paper 4](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7552590), [Paper 5](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8700665)
