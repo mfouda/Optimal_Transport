@@ -3,8 +3,9 @@
 
 # Research Schedule
 #### 03/09 - 03/15
-- [ ] Read [Paper 6](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8347162), [Paper 7](https://arxiv.org/pdf/1805.09114.pdf), [Paper 8](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6409473), [Paper 9](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6494675)
+- [ ] Read [Paper 7](https://arxiv.org/pdf/1805.09114.pdf), [Paper 9](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6494675)
 - [ ] Read [Lectures on Spectral Graph Theory](https://eclass.uoa.gr/modules/document/file.php/MATH506/03.%20%CE%98%CE%AD%CE%BC%CE%B1%CF%84%CE%B1%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CF%8E%CE%BD/cbms.pdf)
+- [x] Read [Paper 6](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8347162), [Paper 8](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6409473)
 
 #### 03/02 - 03/08
 - [x] Review and Read [O.T. in Structured Domains: Algorithms and Applications](http://people.csail.mit.edu/davidam/assets/publications/PhD_thesis/PhDThesis.pdf)
